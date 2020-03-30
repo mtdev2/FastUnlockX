@@ -1,4 +1,4 @@
-		//
+@property (nonatomic, strong) <#Class#> <#name#>
 		//  FastUnlockX.h
 		//  FastUnlockX
 		//
